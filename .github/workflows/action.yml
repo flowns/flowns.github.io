@@ -1,0 +1,4 @@
+name: 'Sync To S3'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'

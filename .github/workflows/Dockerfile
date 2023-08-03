@@ -1,4 +1,4 @@
-FROM python:3.11-alpine
+FROM python:3.12-rc-alpine
 
 ENV AWSCLI_VERSION='1.25.0'
 

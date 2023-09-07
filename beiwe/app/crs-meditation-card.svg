@@ -1,7 +1,7 @@
 <svg width="335" height="155" viewBox="0 0 335 155" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0 0H335V155H0V0Z" fill="#FBE0DE"/>
 <mask id="mask0_1223_143572" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="335" height="155">
-<path d="M0 20C0 8.9543 8.95431 0 20 0H315C326.046 0 335 8.9543 335 20V135C335 146.046 326.046 155 315 155H20C8.95431 155 0 146.046 0 135V20Z" fill="#5DADF3"/>
+<path d="M0 20C0 8.9543 8.95431 0 20 0H315C326.046 0 335 8.9543 335 20V135C335 146.046 326.046 155 315 155H20C8.95431 155 0 146.046 0 135V20Z" fill="#FBE0DE"/>
 </mask>
 <g mask="url(#mask0_1223_143572)">
 <ellipse cx="167.5" cy="164.5" rx="86.5" ry="56.5" fill="#D87706"/>
